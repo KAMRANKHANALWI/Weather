@@ -24,11 +24,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd weather-app
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    pnpm install
    ```
